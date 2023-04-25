@@ -1,5 +1,4 @@
-# Olá ! Eu sou o Bob Silva 
-
+# Hello! I'm Bob Silva
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obobsilva&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obobsilva&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
