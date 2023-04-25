@@ -14,7 +14,7 @@
 
 
 ## Badges
-![BADGE GIT](https://github.com/obobsilva/obobsilva//img/badges/git.png)
+![BADGE GIT](https://github.com/obobsilva/obobsilva/blob/main/img/badges/git.png)
 
 
 
