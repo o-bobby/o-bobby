@@ -20,7 +20,7 @@
   
   
   
-![Snake animation](https://github.com/obobsilva/obobsilva/blob/main/git-hub/workflows/snake.yml)
+
 
 
 
