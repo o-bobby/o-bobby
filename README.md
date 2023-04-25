@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obobsilva&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obobsilva&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌱 Estou estudando.
+## 🌱 Currently learning.
 
 ![HTML](https://img.shields.io/badge/-HTML-ccc?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ccc?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
