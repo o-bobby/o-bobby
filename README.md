@@ -1,7 +1,7 @@
 # Hello! I'm Bob Silva
 <div>
   <a href="https://github.com/obobsilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obobsilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obobsilva&show_icons=true&theme=blue-   green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obobsilva&layout=compact&langs_count=6&theme=blue-green"/>
 </div>
 
@@ -17,6 +17,10 @@
 ## Badges
 ![BADGE CISCO](https://github.com/obobsilva/obobsilva/blob/main/img/badges/cybersecurity.png)
 ![BADGE GIT](https://github.com/obobsilva/obobsilva/blob/main/img/badges/git.png)
+  
+  
+  
+![Snake animation](https://github.com/obobsilva/obobsilva/blob/main/git-hub/workflows/snake.yml)
 
 
 
