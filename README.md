@@ -1,7 +1,9 @@
 # Hello! I'm Bob Silva
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obobsilva&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obobsilva&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/obobsilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obobsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obobsilva&layout=compact&langs_count=6&theme=dracula"/>
+</div>
 
 ## 🌱 Currently learning.
 
