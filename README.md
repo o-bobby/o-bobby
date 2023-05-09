@@ -1,4 +1,4 @@
-# Hello! I'm Bob Silva
+# Hello! I'm Bobby
 <div>
   <a href="https://github.com/obobsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=obobsilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
