@@ -9,11 +9,6 @@
 ![Git](https://img.shields.io/badge/-Git-ccc?style=flat&logo=git&logoColor=red)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-ccc?style=flat&logo=github&logoColor=black)&nbsp;
 
-
-## Badges
-![BADGE CISCO](https://github.com/obobsilva/obobsilva/blob/main/img/badges/cybersecurity.png)
-![BADGE GIT](https://github.com/obobsilva/obobsilva/blob/main/img/badges/git.png)
-  
 <a href="https://o-bobby.github.io/bobby/" target="_blank"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge" target="_blank"></a> 
 
   
